@@ -137,7 +137,7 @@ https://www.zhihu.com/question/447868213/answer/1766246226
 
 Tile寻物功能，BLE小标签
 
-
+像传销一样卖产品。给老年人信任感，比如用北斗定位。
 
 # 老年人口罩
 
