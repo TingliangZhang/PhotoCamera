@@ -102,3 +102,27 @@ https://github.com/vijishmadhavan/ArtLine
 ArtLine生成线稿图，之后转成BMP
 
 其实直接用OpenCV转成黑白BMP图像也可
+
+
+
+# 老 人操作系统
+
+有市场吗？
+
+为啥没人做
+
+原生安卓基础上开发系统
+
+## 参考
+
+https://www.zhihu.com/question/447868213/answer/1766246226
+
+## 功能
+
+任何视图下都有的Home键
+
+主页是常用功能描述型大图标快捷键：打开微信、使用支付宝付款
+
+、给亲人打视频
+
+保留原生安卓的扩展功能
