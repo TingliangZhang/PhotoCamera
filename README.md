@@ -117,6 +117,8 @@ ArtLine生成线稿图，之后转成BMP
 
 https://www.zhihu.com/question/447868213/answer/1766246226
 
+315打假——针对老年人APP引导下载
+
 ## 功能
 
 任何视图下都有的Home键
