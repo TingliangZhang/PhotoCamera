@@ -133,7 +133,7 @@ https://www.zhihu.com/question/447868213/answer/1766246226
 
 衣服内嵌的模块，最好是片状无源的，无线供电/充电。
 
-寻物功能，BLE小标签
+Tile寻物功能，BLE小标签
 
 
 
