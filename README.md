@@ -97,6 +97,18 @@ https://github.com/vijishmadhavan/ArtLine
 
 
 
+最后购买的是[5.83inch e-Paper HAT](https://www.waveshare.net/wiki/5.83inch_e-Paper_HAT)和[5.83inch e-Paper HAT (B)](https://www.waveshare.net/wiki/5.83inch_e-Paper_HAT_(B))
+
+```sh
+cd /home/pi/Desktop/Ink/e-Paper/RaspberryPi_JetsonNano/python/examples
+# 5.83inch e-Paper HAT
+sudo python3 epd_5in83_V2_test.py
+# 5.83inch e-Paper HAT (B)
+sudo python3 epd_5in83b_V2_test.py
+```
+
+
+
 ## 软件方案
 
 ArtLine生成线稿图，之后转成BMP
@@ -146,3 +158,6 @@ Tile寻物功能，BLE小标签
 有什么需求吗？
 
 呼吸困难、容易丢（挂耳绳）、不会正确戴？
+
+
+
