@@ -107,6 +107,10 @@ sudo python3 epd_5in83_V2_test.py
 sudo python3 epd_5in83b_V2_test.py
 ```
 
+写图片的话需要648x480分辨率的.bmp文件。使用PS新建一个1位位图，在新标签页打开图片，框选复制粘贴到ps工程，另存为BMP即可。
+
+相应教程在 教程Tab-使用Photoshop制作散点图
+
 
 
 ## 软件方案
